@@ -1,4 +1,4 @@
-# azure_Class
+# Azure_Class
 
 ## Understanding Azure Service Tools for Data Engineers
 
